@@ -1,0 +1,14 @@
+@media (max-width: 576px){
+    .container{
+        display: block;
+    }
+    .card{
+        display: block;
+    }
+    .col{
+        display: block;
+    }
+    .row{
+        display: block;
+    }
+}
